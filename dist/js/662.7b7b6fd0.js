@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkfrontend_ebox_platform"]=self["webpackChunkfrontend_ebox_platform"]||[]).push([[662],{8662:function(t,e,s){s.r(e),s.d(e,{default:function(){return p}});var n=s(6768);const r={class:"text-center py-10"},o=(0,n.Lk)("h1",{class:"text-4xl font-bold text-blue-600"},"Resultados",-1),a=(0,n.Lk)("p",{class:"mt-4"},"Aquí se mostrarán los resultados.",-1),u=[o,a];function l(t,e,s,o,a,l){return(0,n.uX)(),(0,n.CE)("div",r,u)}var c={name:"ResultadosView"},f=s(1241);const d=(0,f.A)(c,[["render",l]]);var p=d}}]);
+//# sourceMappingURL=662.7b7b6fd0.js.map
